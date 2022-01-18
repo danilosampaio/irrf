@@ -1,0 +1,23 @@
+{
+  "name": "irrf",
+  "version": "1.0.0",
+  "description": "Calcula o valor do Imposto de Renda Retido na Fonte (IRRF) que é descontado na folha de pagamento mensalmente.",
+  "main": "main/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "irrf",
+    "imposto de renda",
+    "inss"
+  ],
+  "author": {
+    "name": "Danilo Sampaio",
+    "email": "danilo.sampaio@gmail.com",
+    "url": "https://github.org/danilosampaio"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
